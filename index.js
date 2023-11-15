@@ -105,3 +105,4 @@ console.log(arr); */
 
 /* 26 sort increment methods */
 // console.log(arr.sort((a, b) => a - b));
+// .
